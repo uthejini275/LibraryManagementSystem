@@ -109,3 +109,57 @@ To develop a robust, barcode-enabled mobile application that allows:
    * Launch on emulator/device
 
 ---
+📁 **Folder Structure**
+
+Library-Management-System/
+├── backend/ # Node.js + Express backend
+├── frontend/ # Flutter frontend
+├── docs/ # Project documents
+│ ├── SOW.pdf
+│ ├── SRS.pdf
+│ ├── SDD.pdf
+│ └── Test_Plan/
+│ └── Manual_Test_Cases.pdf
+├── README.md
+
+---
+👥 **Team Members & Contributions**
+
+Aryan Karthik – SE22UARI022
+Project Management, System Design
+
+Megha Shyam – SE22UARI071
+Documentation, Report Writing
+
+Krishna Bhardwaj – SE22UARI029
+Frontend Development, UI/UX Design
+
+Uthejini – SE22UARI129
+Backend Development, Functionality
+
+Aryan Reddy – SE22UARI116
+Database Design, Management
+
+Nishitha Reddy – SE22UARI113
+Testing, Quality Assurance
+
+
+📄 **Documentation**
+
+- ✅ Statement of Work (SOW)  
+- ✅ Software Requirements Specification (SRS)  
+- ✅ Software Design Document (SDD)  
+- ✅ Test Plan (Manual Testing Included)
+
+---
+
+✅ **Project Status**
+
+🔒 Auth System: ✅ JWT with hashed passwords  
+📚 Book Issue & Return: ✅ Barcode enabled  
+📊 Transaction Logs: ✅ Date and status updated  
+📦 Book Inventory View: ✅ Admin & User access  
+🧪 Testing: ✅ Manual test cases verified
+
+
+---
