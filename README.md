@@ -1,5 +1,5 @@
  HEAD
-# library_management_app
+# LIBRARY MANAGEMENT SYSTEM
 
 A new Flutter project.
 
