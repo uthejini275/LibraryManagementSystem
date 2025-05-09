@@ -5,12 +5,6 @@ Library Management System (LMS) for mobile platforms using Flutter for the front
 152be6a36a29c7a0580e0f441e7ba023ac9db404
 
 ---
-
-🔗 [Watch App Demo](https://drive.google.com/file/d/1oN6FNOxI7D4X4hC5RvnmfIJEQNestdDn/view?usp=sharing)  
-🎥 [Watch Project Presentation](https://drive.google.com/file/d/1vAGVvSXPVfP9venCccOep_CR68aOOP7y/view?usp=sharing)
-
-
-
 ## 📚 Library Management System (LMS)
 
 The **Library Management System** is a mobile-based application built using **Flutter**, designed to digitize and simplify traditional library tasks such as **book issuing**, **returning**, **searching**, and **tracking**. This app supports **two types of users** – **Students** and **Librarians** – and provides role-specific functionalities for each.
