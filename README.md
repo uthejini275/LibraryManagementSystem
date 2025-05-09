@@ -24,6 +24,11 @@ Absolutely! Here's a **clear explanation of your entire Library Management Syste
 
 ---
 
+🔗 [Watch App Demo](https://drive.google.com/file/d/1oN6FNOxI7D4X4hC5RvnmfIJEQNestdDn/view?usp=sharing)  
+🎥 [Watch Project Presentation](https://drive.google.com/file/d/1vAGVvSXPVfP9venCccOep_CR68aOOP7y/view?usp=sharing)
+
+
+
 ## 📚 Library Management System (LMS)
 
 The **Library Management System** is a mobile-based application built using **Flutter**, designed to digitize and simplify traditional library tasks such as **book issuing**, **returning**, **searching**, and **tracking**. This app supports **two types of users** – **Students** and **Librarians** – and provides role-specific functionalities for each.
@@ -31,6 +36,26 @@ The **Library Management System** is a mobile-based application built using **Fl
 The application uses a **Node.js backend**, a **MySQL database** for persistent data storage, and integrates features like **barcode scanning**, **secure login**, and **role-based navigation**. The app runs **locally** and is intended for demonstration and educational purposes.
 
 ---
+📚 Library Management System – A Smart Book Tracking App for Students & Admins  
+🔗 [Watch App Demo](https://drive.google.com/file/d/1oN6FNOxI7D4X4hC5RvnmfIJEQNestdDn/view?usp=sharing)  
+🎥 [Watch Project Presentation](https://drive.google.com/file/d/1vAGVvSXPVfP9venCccOep_CR68aOOP7y/view?usp=sharing)
+
+Library Management System is a mobile-first application designed to simplify book issuing, returning, and management using barcode scanning. Built for educational institutions, it ensures real-time updates, secure authentication, and intuitive user experience for both admins and students.
+
+---
+
+🧠 **Project Objective**  
+To develop a robust, barcode-enabled mobile application that allows:
+
+✅ Admins to manage book inventory and track transactions  
+✅ Students to issue and return books with ease  
+✅ Authentication and role-based access  
+✅ Barcode-based identification of books  
+✅ Timestamped logs for all activities
+
+---
+
+
 
 ### 👥 User Roles
 
